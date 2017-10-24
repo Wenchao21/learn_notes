@@ -3,9 +3,10 @@
 ---
 <center>web开发
 
-nodejs相关：
+python: Flask, Django
 
-web框架 koa， express等。
+nodejs相关： web框架 koa， express等。
+
 
 
 ---

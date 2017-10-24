@@ -16,6 +16,8 @@ nodejs相关： web框架 koa， express等。
 ---
 <center>爬虫
 
+知识点： HTTP协议，ajax动态加载，网页下载和分析
+
 模拟登录问题
 
 动态抓取网页（ajax动态加载怎么抓取）

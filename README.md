@@ -1,19 +1,28 @@
 <center>学习笔记和日记
 
 ---
-知识
+<center>web开发
 
----
 nodejs相关：
 
 web框架 koa， express等。
 
 
 ---
+<center>爬虫
 
 分词相关：
 
 jieba分词，统计词频，词性标注。
+
+---
+<center>自然语言处理
+
+分词
+
+词性标注
+
+情感分析
 
 ---
 
